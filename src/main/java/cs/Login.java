@@ -1,9 +1,5 @@
 package cs;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
 public final class Login {
     private static Login login;
 

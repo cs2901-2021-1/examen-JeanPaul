@@ -1,0 +1,44 @@
+
+&cs.VacCenter#baja(Ljava/lang/String;)ZM
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaD D("3*´
+2M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaI I("W
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaI I(
+""*¬
+3M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaF F(Â‚
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaF F(
+%0cs.Hospital"4cs.VacCenter#search(Ljava/lang/String;)Lcs/Hospital;*
+cs.VacCenter*
+
+namejava.lang.String2search(Ljava/lang/String;)~
+|
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaF F(
+hcs.Hospital"__id*
+
+%0cs.Hospital*
+2
+1*ò
+1M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaL L(í
+è
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaL L(
+%1java.util.List"__id*"* 
+cs.VacCenter"
+hospitalList’“
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaL L(
+%2boolean"*java.util.List#remove(Ljava/lang/Object;)Z*
+
+%1java.util.List*
+
+hcs.Hospital2remove(Ljava/lang/Object;)"W
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.javaM M(
+"":
+namejava.lang.StringB
+cs.VacCenter

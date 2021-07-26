@@ -1,0 +1,7 @@
+organization=cs2901-2021-1
+projectKey=cs2901-2021-1_examen-JeanPaul
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22079
+dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2021-1_examen-JeanPaul
+ceTaskId=AXrklEaaiItm_nvcEz2n
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrklEaaiItm_nvcEz2n

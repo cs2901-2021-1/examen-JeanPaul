@@ -1,0 +1,68 @@
+
+5cs.Login#login(Ljava/lang/String;Ljava/lang/String;)ZI
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java ("8*£
+3I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java ("S
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (
+""*Ò
+4I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (ª§
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (!
+
+%3char"java.lang.String#charAt(I)C*
+
+usernamejava.lang.String*
+""2	charAt(I)Ÿœ
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java5 (F	
+%4int"java.lang.String#length()I*
+
+usernamejava.lang.String2length()ª§
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java% (O
+
+%5char"java.lang.String#charAt(I)C*
+
+passwordjava.lang.String*
+""2	charAt(I)*
+3
+5*ø
+5I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (Ÿœ
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (,	
+%2int"java.lang.String#length()I*
+
+usernamejava.lang.String2length()*
+4
+1*£
+7I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java: (?"S
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java3 (@
+""*š
+8I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (Ÿœ
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (	
+%0int"java.lang.String#length()I*
+
+usernamejava.lang.String2length()Ÿœ
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java  (1	
+%1int"java.lang.String#length()I*
+
+passwordjava.lang.String2length()*
+5
+7*£
+1I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java ("S
+I
+?/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/Login.java (
+"":
+usernamejava.lang.String:
+passwordjava.lang.StringB
+
+cs.Login

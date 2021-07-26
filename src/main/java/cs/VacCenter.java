@@ -4,7 +4,7 @@ import java.security.SecureRandom;
 import java.util.List;
 import java.util.logging.Logger;
 
-public class vacCenter {
+public class VacCenter {
 
 
 
@@ -15,18 +15,17 @@ public class vacCenter {
     SecureRandom sc;
 
     List<Hospital> hospitalList;
-    static final Logger logger = Logger.getLogger(vacCenter.class.getName());
+    static final Logger logger = Logger.getLogger(VacCenter.class.getName());
 
 
 
 
 
-    public vacCenter(){
+    public VacCenter(){
         sc = new SecureRandom();
         vacAvance = sc.nextDouble();
         vacCobertura = sc.nextDouble() * vacAvance;
-        logger.info(vacAvance.toString());
-        logger.info(vacCobertura.toString());
+
 
         while (vacCobertura + vacAvance > 1){
             vacCobertura = sc.nextDouble() * vacAvance;

@@ -6,7 +6,7 @@ public class Hospital {
 
 
     Hospital(String name){
-        name = name;
+        this.name = name;
     }
 
 }
