@@ -1,45 +1,45 @@
 
-__sonar_lambda_4$cs.VacCenterM
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java* *(s"startingBlock*Õ
+__sonar_lambda_3$cs.VacCenterM
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8 8(o"startingBlock*Õ
 startingBlockM
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java* *(sh
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8 8(oh
 f
 
 __unknown_file (
 VacCenter.thiscs.VacCenter"__id*$*"
 cs.VacCenter"
 VacCenter.this*
-1*Ã
+1*»
 1M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java* *(E•
-¢
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8 8(D¢
+ü
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java*Y *(e
-%24java.lang.Double"__id*2*0
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8X 8(a
+%17java.lang.Double"__id*/*-
 
-VacCenter.thiscs.VacCenter"
-vacCoberturaí
+VacCenter.thiscs.VacCenter"
+	vacAvanceí
 è
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java*g *(r
-%25java.lang.Long"__id*!*
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8c 8(n
+%18java.lang.Long"__id*!*
 cs.VacCenter"
 totalPeopleï
 í
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java*N *(s
-%26long"java.lang.Math#round(D)J*"
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8M 8(o
+%19long"java.lang.Math#round(D)J*"
 java.lang.Math*
-""∂
-≥
+""µ
+≤
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java* *(s
-%27java.lang.String"__concat*0.
-,N√∫mero de personas vacunadas completamente:*
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8 8(o
+%20java.lang.String"__concat*/-
++N√∫mero de personas vacunadas parcialmente:*
 
-%26long"j
+%19long"j
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java* *(s
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java8 8(o
 
-%27java.lang.StringB
+%20java.lang.StringB
 java.util.function.Supplier

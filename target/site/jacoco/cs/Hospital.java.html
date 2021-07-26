@@ -3,11 +3,22 @@
 public class Hospital {
 
     String name;
+    VacCenter vc;
+    int vaccinatedNum;
 
 
-<span class="nc" id="L8">    Hospital(String name){</span>
-<span class="nc" id="L9">        this.name = name;</span>
-<span class="nc" id="L10">    }</span>
+<span class="fc" id="L10">    Hospital(String name){</span>
+<span class="fc" id="L11">        this.name = name;</span>
+<span class="fc" id="L12">        vc = VacCenter.getInstance();</span>
+<span class="fc" id="L13">        vaccinatedNum = 0;</span>
+<span class="fc" id="L14">    }</span>
+
+    void update(String userVacunado){
+<span class="nc" id="L17">        vaccinatedNum++;</span>
+<span class="nc" id="L18">        vc.notify(userVacunado);</span>
+<span class="nc" id="L19">    }</span>
+
+
 
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

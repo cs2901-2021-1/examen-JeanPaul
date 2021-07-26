@@ -1,33 +1,39 @@
 
-__sonar_lambda_1$cs.VacCenterM
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java' '(D"startingBlock*Í
+__sonar_lambda_0$cs.VacCenterM
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java5 5(I"startingBlock*Í
 startingBlockM
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java' '(Dh
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java5 5(Ih
 f
 
 __unknown_file (
 VacCenter.thiscs.VacCenter"__id*$*"
 cs.VacCenter"
 VacCenter.this*
-1*—
+1*Ó
 1M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java' '(5¤
-¡
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java5 5(2¡
+ž
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java'8 '(D
-%8java.lang.Double"__id*2*0
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java55 5(>
+%2java.lang.Double"__id*/*-
 
-VacCenter.thiscs.VacCenter"
-vacCobertura°
-­
+VacCenter.thiscs.VacCenter"
+	vacAvance¿¼
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java' '(D
-%9java.lang.String"__concat* 
-Cobertura de la VacunaciÃ³n:*
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java55 5(I
+%3java.lang.String"-java.lang.Double#toString()Ljava/lang/String;*
 
-%8java.lang.Double"i
+%2java.lang.Double2
+toString()­
+ª
 M
-C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java' '(D
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java5 5(I
+%4java.lang.String"__concat*
+Avance de la VacunaciÃ³n:*
 
-%9java.lang.StringB
+%3java.lang.String"i
+M
+C/mnt/d/Code/sofware/examen-JeanPaul/src/main/java/cs/VacCenter.java5 5(I
+
+%4java.lang.StringB
 java.util.function.Supplier

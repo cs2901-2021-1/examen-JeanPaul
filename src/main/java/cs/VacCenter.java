@@ -1,14 +1,18 @@
 package cs;
 
 import java.security.SecureRandom;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
 
-public class VacCenter {
+public  final class VacCenter {
 
 
 
     static Long totalPeople = 22935533L;
+    private static VacCenter vacCenter;
+
+
     Double vacAvance;
     Double vacCobertura;
     int vacCenterNum ;
@@ -16,6 +20,8 @@ public class VacCenter {
 
     List<Hospital> hospitalList;
     static final Logger logger = Logger.getLogger(VacCenter.class.getName());
+
+
 
 
 
@@ -31,6 +37,15 @@ public class VacCenter {
             vacCobertura = sc.nextDouble() * vacAvance;
 
         }
+
+        hospitalList = new ArrayList<>();
+    }
+
+    public static VacCenter getInstance(){
+        if(vacCenter == null){
+            vacCenter = new VacCenter();
+        }
+        return vacCenter;
     }
 
 
@@ -55,6 +70,8 @@ public class VacCenter {
 
     public  boolean alta(String name){
 
+        if(hospitalList.size() > 50) return false;
+
         var h = search(name);
 
         if(h == null){
@@ -62,6 +79,7 @@ public class VacCenter {
             hospitalList.add(h);
             return  true;
         }
+        vacCenterNum++;
         return false;
     }
 
@@ -74,8 +92,13 @@ public class VacCenter {
         }
 
         hospitalList.remove(h);
+        vacCenterNum--;
         return true;
     }
 
+
+    void notify(String username){
+        logger.info(()->"the user " + username + " was vaccinated");
+    }
 
 }

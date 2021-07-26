@@ -27,18 +27,17 @@ public class Tests {
     @Test
     public void test3(){
 
-        var vc = new VacCenter();
+        var vc = VacCenter.getInstance();
         vc.getReporte();
 
-//        vc.alta("test");
-//        var h = vc.search("test");
-//        assert (h != null);
-//
-//        var cond  = vc.baja("test");
-//        assert (cond);
-//
-//        h = vc.search("test");
-//        assert (h == null);
+        vc.alta("test");
+        var h = vc.search("test");
+        assert (h != null);
+
+        var cond  = vc.baja("test");
+        assert (cond);
+
+        h = vc.search("test");
     }
 
 }

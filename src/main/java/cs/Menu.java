@@ -18,7 +18,8 @@ public class Menu {
 
     public void menu(){
 
-        var c = new VacCenter();
+        var c = VacCenter.getInstance();
+        var getHosInput = "insert hospital:";
 
 
         while (true){
@@ -39,10 +40,39 @@ public class Menu {
             if(cmd.equals("exit"))
                 break;
 
-            if(cmd.equals("Reporte")){
-                c.getReporte();
-            }
+            switch (cmd) {
+                case "Reporte":
+                    c.getReporte();
+                    break;
+                case "Alta": {
+                    logger.info(getHosInput);
+                    var hospital = myObj.nextLine();
+                    c.alta(hospital);
+                    break;
+                }
+                case "Baja": {
+                    logger.info(getHosInput);
+                    var hospital = myObj.nextLine();
+                    c.baja(hospital);
+                    break;
+                }
+                case "Vacunado":{
+                    logger.info(getHosInput);
+                    var hospital = myObj.nextLine();
+                    var h = c.search(hospital);
+                    if(h == null) {
+                        logger.info("hospital is not in service");
+                        break;
+                    }
+                    logger.info("insert vacunado:");
+                    var user = myObj.nextLine();
+                    h.update(user);
 
+                    break;
+                }
+                default:
+                    break;
+            }
 
 
         }
