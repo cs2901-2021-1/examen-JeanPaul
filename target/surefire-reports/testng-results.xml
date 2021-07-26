@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-26T16:29:44 PET" name="Surefire suite" finished-at="2021-07-26T16:29:44 PET" duration-ms="279">
+  <suite started-at="2021-07-26T16:31:40 PET" name="Surefire suite" finished-at="2021-07-26T16:31:40 PET" duration-ms="284">
     <groups>
     </groups>
-    <test started-at="2021-07-26T16:29:44 PET" name="Surefire test" finished-at="2021-07-26T16:29:44 PET" duration-ms="279">
+    <test started-at="2021-07-26T16:31:40 PET" name="Surefire test" finished-at="2021-07-26T16:31:40 PET" duration-ms="284">
       <class name="com.Tests">
-        <test-method signature="test1()[pri:0, instance:com.Tests@eb507b9]" started-at="2021-07-26T16:29:44 PET" name="test1" finished-at="2021-07-26T16:29:44 PET" duration-ms="26" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.Tests@eb507b9]" started-at="2021-07-26T16:31:40 PET" name="test1" finished-at="2021-07-26T16:31:40 PET" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:com.Tests@eb507b9]" started-at="2021-07-26T16:29:44 PET" name="test2" finished-at="2021-07-26T16:29:44 PET" duration-ms="0" status="PASS">
+        <test-method signature="test2()[pri:0, instance:com.Tests@eb507b9]" started-at="2021-07-26T16:31:40 PET" name="test2" finished-at="2021-07-26T16:31:40 PET" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method signature="test3()[pri:0, instance:com.Tests@eb507b9]" started-at="2021-07-26T16:29:44 PET" name="test3" finished-at="2021-07-26T16:29:44 PET" duration-ms="71" status="PASS">
+        <test-method signature="test3()[pri:0, instance:com.Tests@eb507b9]" started-at="2021-07-26T16:31:40 PET" name="test3" finished-at="2021-07-26T16:31:40 PET" duration-ms="71" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->

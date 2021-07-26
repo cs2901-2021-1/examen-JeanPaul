@@ -15,7 +15,7 @@ public  final class VacCenter {
 
     Double vacAvance;
     Double vacCobertura;
-    public int vacCenterNum ;
+    int vacCenterNum ;
     SecureRandom sc;
 
     List&lt;Hospital&gt; hospitalList;
@@ -33,8 +33,8 @@ public  final class VacCenter {
 <span class="fc" id="L33">        vacCobertura = sc.nextDouble() * vacAvance;</span>
 
 
-<span class="pc bpc" id="L36" title="1 of 2 branches missed.">        while (vacCobertura + vacAvance &gt; 1){</span>
-<span class="nc" id="L37">            vacCobertura = sc.nextDouble() * vacAvance;</span>
+<span class="fc bfc" id="L36" title="All 2 branches covered.">        while (vacCobertura + vacAvance &gt; 1){</span>
+<span class="fc" id="L37">            vacCobertura = sc.nextDouble() * vacAvance;</span>
 
         }
 

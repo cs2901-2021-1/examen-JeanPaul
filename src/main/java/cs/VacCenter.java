@@ -15,7 +15,7 @@ public  final class VacCenter {
 
     Double vacAvance;
     Double vacCobertura;
-    public int vacCenterNum ;
+    int vacCenterNum ;
     SecureRandom sc;
 
     List<Hospital> hospitalList;
