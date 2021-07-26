@@ -15,7 +15,7 @@ public  final class VacCenter {
 
     Double vacAvance;
     Double vacCobertura;
-    int vacCenterNum ;
+    public int vacCenterNum ;
     SecureRandom sc;
 
     List<Hospital> hospitalList;
@@ -77,9 +77,9 @@ public  final class VacCenter {
         if(h == null){
             h = new Hospital(name);
             hospitalList.add(h);
+            vacCenterNum++;
             return  true;
         }
-        vacCenterNum++;
         return false;
     }
 

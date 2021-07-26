@@ -3,5 +3,5 @@ projectKey=cs2901-2021-1_examen-JeanPaul
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.22079
 dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2021-1_examen-JeanPaul
-ceTaskId=AXrkti5oZdDi_X7Y06rx
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrkti5oZdDi_X7Y06rx
+ceTaskId=AXrkudmrZ3POs6gc7dp-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrkudmrZ3POs6gc7dp-
